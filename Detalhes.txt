@@ -7,7 +7,11 @@
 //  npm install ts-node-dev -D
 //  npm install knex
 //  npm install --save pg
-// npm install cors
+//  npm install cors
+//  npm install react-icons
+//  npm install react-router-dom
+//  npm install leaflet react-leaflet
+//  npm install axios
 //  Para iniciar a aplicação : npm run dev
 
 

@@ -7,7 +7,7 @@ const routes = express.Router();
 const pointsController = new PointsController();
 const itemsController = new ItemsController();
 
-routes.get('/', itemsController.index);
+routes.get('/items', itemsController.index);
 
 routes.post('/points', pointsController.create);
 routes.get('/points', pointsController.index);
